@@ -12,7 +12,7 @@
 
 <div align="center" padding="5%"> 
 
-### Social Media <br>
+### Contacts <br>
 
 </div> 
 
