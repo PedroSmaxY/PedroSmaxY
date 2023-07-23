@@ -4,11 +4,11 @@
 
 
 <div align="center">  
-  <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=0d1117&text_color=9e9e9e&title_color=f2f2f2&hide_border=true&icon_color=46c7de" /> 
-  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=9e9e9e&bg_color=0d1117" />
+  <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_color=9e9e9e&title_color=f2f2f2&hide_border=true&icon_color=46c7de" /> 
+  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=9e9e9e&bg_color=00000000" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=0d1117&color=ffffff&line=46c7de&point=46c7de&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=ffffff&line=46c7de&point=46c7de&area=true&hide_border=true)
 
 <div align="center" padding="5%"> 
 
