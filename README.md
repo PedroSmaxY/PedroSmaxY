@@ -1,14 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46c7de&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Henrique;I'm+19+years+old;I'm+from+Brazil;I+am+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_color=9e9e9e&title_color=f2f2f2&hide_border=true&icon_color=46c7de" /> 
-  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=9e9e9e&bg_color=00000000" />
-</div>
+<a href="https://github.com/PedroSmaxY" align="center">  
+  <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=f2f2f2&title_color=f2f2f2&rank_icon=github&hide_border=true&icon_color=46c7de" /> 
+  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=f2f2f2&bg_color=00000000" />
+</a>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=ffffff&line=46c7de&point=46c7de&area=true&hide_border=true)
+<a href="https://github.com/PedroSmaxY" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true"/>
+</a>
 
 <div align="center" padding="5%"> 
 
@@ -43,4 +45,4 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46c7de&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=footer"/>
