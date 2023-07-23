@@ -1,4 +1,6 @@
+<a href="https://github.com/PedroSmaxY">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
+</a>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Henrique;I'm+19+years+old;I'm+from+Brazil;I+am+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -45,5 +47,5 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div> 
-</a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=footer"/>
+</a>
