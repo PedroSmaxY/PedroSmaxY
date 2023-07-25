@@ -27,7 +27,9 @@
 </div>
 
 <div align="center" padding="5%"> 
+  
 ### Main Skills <br>
+
 </div>
 
 <div align="center">
@@ -40,7 +42,9 @@
 </div>
 
 <div align="center" padding="5%"> 
+  
 ### Studying in This Moment <br>
+
 <a href="https://github.com/PedroSmaxY">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
