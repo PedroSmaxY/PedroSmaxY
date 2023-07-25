@@ -15,9 +15,7 @@
 </a>
 
 <div align="center" padding="5%"> 
-
 ### Contacts <br>
-
 </div> 
 
 <div align="center"> 
@@ -27,9 +25,7 @@
 </div>
 
 <div align="center" padding="5%"> 
-
 ### Main Skills <br>
-
 </div>
 
 <div align="center">
