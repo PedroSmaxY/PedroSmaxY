@@ -42,7 +42,6 @@
 </div>
 
 <div align="center" padding="5%"> 
-
 ### Studying in This Moment <br>
 <a href="https://github.com/PedroSmaxY">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
