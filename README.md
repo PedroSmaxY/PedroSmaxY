@@ -2,11 +2,14 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
 </a>
 
-<picture>
+<div>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29" alt="Typing SVG Animation"/>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29"/>
   <img alt="github-snake" src="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29" alt="Typing SVG Animation"/>
 </picture>
+</div>
+
 
 <a href="#" align="center">
   <picture>
@@ -15,12 +18,13 @@
   <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=f2f2f2&title_color=f2f2f2&rank_icon=github&hide_border=true&icon_color=46c7de" /> 
 </picture>
 
+
 <picture>
   <source width="42%" height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=f2f2f2&bg_color=00000000" />
   <source width="42%" height="200px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=00000000" />
   <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=f2f2f2&bg_color=00000000" />
-</a>
 </picture>
+</a>
   
 
 <a href="#" align="center">
