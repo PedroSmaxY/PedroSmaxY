@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="https://github.com/PedroSmaxY/PedroSmaxY/blob/main/style.css">
-</head>
-
 <body>
   <div >
     <a href="#">
