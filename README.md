@@ -1,13 +1,15 @@
 <head>
-  
+  <link rel="stylesheet" href="./style/style.css">
 </head>
 
 <body>
-  <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
-  </a>
-  
-  <div align="center">
+  <div >
+    <a href="#">
+      <img class="border" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
+    </a>
+  <div>
+    
+  <div align="center" class="title">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29" alt="Typing SVG Animation"/>
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29"/>
@@ -96,7 +98,9 @@
     </picture>
   </div>
   
-  <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=footer"/>
-  </a>
+  <div >
+    <a href="#">
+      <img class="border" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=footer"/>
+    </a>
+  </div>
 </body>
