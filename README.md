@@ -10,7 +10,6 @@
 </picture>
 </div>
 
-
 <a href="#" align="center">
   <picture>
   <source left="30px" width="49%" height="195px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=f2f2f2&title_color=f2f2f2&rank_icon=github&hide_border=true&icon_color=46c7de" />
