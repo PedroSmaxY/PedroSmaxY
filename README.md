@@ -72,6 +72,12 @@
 </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <a href="#">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=footer"/>
 </a>
