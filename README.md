@@ -32,11 +32,11 @@
 
 <a href="#" align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=000000&line=20D7F7&point=46c7de&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=000000&line=20D7F7&point=46c7de&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true"/>
+  </picture>
 </a>
-</picture>
 
 <div align="center" padding="5%"> 
 
@@ -45,9 +45,15 @@
 </div> 
 
 <div align="center"> 
-  <a href="https://www.instagram.com/pedrohenriquenv_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:pedro180604@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrohenriquenv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pedrohenriquenv_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href = "mailto:pedro180604@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/pedrohenriquenv" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
 
 <div align="center" padding="5%"> 
