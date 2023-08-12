@@ -4,7 +4,7 @@
       <img class="border" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
     </a>
   <div>
-    a
+    
   <div align="center" class="title">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29" alt="Typing SVG Animation"/>
