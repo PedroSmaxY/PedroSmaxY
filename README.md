@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Pedro+Henrique;+Back-End+Developer+and+CS+Student;+Welcome+to+my+GitHub+Profile+:%29" alt="Typing SVG Animation"/>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Pedro+Henrique;+Back-End+Developer+and+CS+Student;+Welcome+to+my+GitHub+Profile+:%29"/>
 </picture>
-      <img alt="github-snake" src="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+My+name+is+Pedro+Henrique;I+am+a+Computer+Science+Student;I'm+from+Brazil;Be+Welcome!+:%29" alt="Typing SVG Animation"/>
+      <img alt="github-snake" src="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Pedro+Henrique;+Back-End+Developer+and+CS+Student;+Welcome+to+my+GitHub+Profile+:%29" alt="Typing SVG Animation"/>
     </picture>
   </div>
   
