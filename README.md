@@ -61,7 +61,7 @@
   
   <div align="center" padding="5%"> 
     
-  ### Main Skills <br>
+  ### Skills <br>
   
   </div>
   
