@@ -1,103 +1,49 @@
-<body>
-  <div >
-    <a href="#">
-      <img class="border" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=header"/>
-    </a>
-  <div>
-    
-  <div align="center" class="title">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Pedro+Henrique;+FullStack+Developer+and+CS+Student;+Welcome+to+my+GitHub+Profile+:%29" alt="Typing SVG Animation"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Pedro+Henrique;+FullStack+Developer+and+CS+Student;+Welcome+to+my+GitHub+Profile+:%29"/>
-      <img alt="github-snake" src="https://readme-typing-svg.herokuapp.com/?color=fefefe&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Pedro+Henrique;+FullStack+Developer+and+CS+Student;+Welcome+to+my+GitHub+Profile+:%29" alt="Typing SVG Animation"/>
-  </picture>
-</div>
-  
-  <div align="center">
-    <a href="#">
-      <picture>
-        <source left="30px" width="49%" height="195px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=f2f2f2&title_color=f2f2f2&rank_icon=github&hide_border=true&icon_color=46c7de" />
-        <source left="30px" width="49%" height="195px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=000000&title_color=000000&rank_icon=github&hide_border=true&icon_color=000000" />
-        <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=f2f2f2&title_color=f2f2f2&rank_icon=github&hide_border=true&icon_color=46c7de" /> 
-      </picture>
-      <picture>
-        <source width="42%" height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=f2f2f2&bg_color=00000000" />
-        <source width="42%" height="200px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=00000000" />
-        <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=f9f9f9&text_color=f2f2f2&bg_color=00000000" />
-      </picture>
-    </a>
-  </div>
-  
-  
-  
-  
-    
-  
-  <a href="#" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=000000&line=20D7F7&point=46c7de&area=true&hide_border=true" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSmaxy&bg_color=00000000&color=f2f2f2&line=20D7F7&point=46c7de&area=true&hide_border=true"/>
-    </picture>
-  </a>
-  
-  <div align="center" padding="5%"> 
-  
-  ### Contacts <br>
-  
-  </div> 
-  
-  <div align="center"> 
-    <a href="https://www.instagram.com/pedrohenriquenv_/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href = "mailto:pedro180604@gmail.com"> 
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/pedrohenriquenv" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-  </div>
-  
-  <div align="center" padding="5%"> 
-    
-  ### Skills <br>
-  
-  </div>
-  
-  <div align="center">
-    <a href="#"> 
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white">
-      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
-      <br />
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-      <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-      <br />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>  
-  </div>
-  
-  <div align="center" padding="5%"> 
-     
-  <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
-  
-  <div >
-    <a href="#">
-      <img class="border" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20D7F7&height=120&section=footer"/>
-    </a>
-  </div>
-</body>
+# Pedro Henrique
+
+**Full Stack Software Engineer & CS Senior** • Rio de Janeiro, Brazil  
+Building high-performance web products with **TypeScript & Next.js**, leveraging **AI-assisted & spec-driven development** workflows to ship fast.
+
+[🌐 Portfolio](https://pedro-smaxy-dev.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/pedrohenriquenv) • [✉️ Email](mailto:pedro180604@gmail.com)
+
+---
+
+### 💡 About Me
+
+- 🎓 **Computer Science Senior** (8th semester) — combining foundational computer science (algorithms, system design) with modern product development.
+- 🤖 **AI-Augmented Engineering:** Active practitioner of spec-driven development, LLM toolchains, and AI coding agents to accelerate delivery without compromising architectural rigor.
+- ⚡ **Modern Web Focus:** Crafting full-stack applications with **TypeScript, Next.js, React, and Node.js**, backed by PostgreSQL and containerized environments.
+- ☕ **Solid Foundations:** Proficient in **Java** and object-oriented architecture, applying clean code patterns across both backend and frontend systems.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+- **Core & Languages:** TypeScript, JavaScript, Java, Python, SQL
+- **Frontend & UX:** Next.js (App Router), React, Tailwind CSS
+- **Backend & APIs:** Node.js, Fastify, NestJS, Spring Boot, RESTful APIs
+- **Data & Infrastructure:** PostgreSQL, MySQL, Docker, Vercel, Git
+- **Modern Workflow:** Spec-Driven Development, AI Pair Programming, Agentic Tooling
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **FURIA CS2 FanBot** | Conversational bot and landing page designed for esports fans. | Python, Telegram API, Vercel | [Code](https://github.com/PedroSmaxY/furia-fanbot) • [Live Demo](https://furia-fanbot.vercel.app/) |
+| **pedro-smaxy.dev** | Engineering portfolio showcasing web apps, case studies, and career timeline. | Next.js, TypeScript, Tailwind | [Code](https://github.com/PedroSmaxY/pedro-smaxy.dev) • [Live Demo](https://pedro-smaxy-dev.vercel.app/) |
+| **Scheduling System API** | Production-ready appointment REST API featuring JWT auth and role-based access. | C# .NET 9, EF Core, PostgreSQL, Docker | [Code](https://github.com/PedroSmaxY/SchedulingSystemAPI) |
+| **Music Streaming API** | Spotify-like audio streaming backend architecture with Spring Security & Swagger. | Java, Spring Boot, MySQL | [Code](https://github.com/PedroSmaxY/MusicAPI) |
+
+---
+
+### 📈 Activity & Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroSmaxY/PedroSmaxY/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=PedroSmaxY&show_icons=true&bg_color=00000000&text_bold=false&ring_color=58a6ff&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSmaxY&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+</p>
