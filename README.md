@@ -29,15 +29,6 @@ I build practical software with strong foundations in typed APIs, developer tool
 
 ---
 
-## Other work
-
-- **[Compiler for P-](https://github.com/PedroSmaxY/trabalho-compiladores):** lexical, syntactic, semantic, and AST stages implemented with Flex, Bison, and C.
-- **[Hardware Store](https://github.com/PedroSmaxY/hardware-store):** desktop management system using layered architecture, PyQt6, SQLAlchemy, and Repository/Service patterns.
-- **[Profile Insight API](https://github.com/PedroSmaxY/profile-insight-api):** FastAPI service integrated with a SWI-Prolog expert system.
-- **[Music API](https://github.com/PedroSmaxY/MusicAPI):** cloud music streaming backend built with Spring Boot and MySQL.
-
----
-
 ## Activity
 
 <p align="center">
