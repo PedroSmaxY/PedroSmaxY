@@ -23,7 +23,7 @@ I build practical software with strong foundations in typed APIs, developer tool
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
 | **[ABNT MCP](https://github.com/PedroSmaxY/abnt-mcp)** | AI tooling for academic research and document production, with normative auditing, structured specifications, scientific-source lookup, and PDF compilation through MCP. | Python, MCP, Typst, LaTeX |
-| **[Solar System ASCII](https://github.com/PedroSmaxY/solar-system-ascii)** | High-precision solar-system and orbital-mechanics simulator rendered in the terminal with TrueColor raymarching, ASCII/half-block modes, parallel rendering, and physics tests. | Rust, Rayon, terminal rendering |
+| **[Solar System ASCII](https://github.com/PedroSmaxY/solar-system-ascii)** & **[Black Hole ASCII](https://github.com/PedroSmaxY/black-hole-ascii-simulation)** | High-precision orbital-mechanics and 4D Kerr-Schild relativistic black hole simulators rendered in the terminal with TrueColor raymarching, ASCII/half-block modes, and physics benchmarks. | Rust, Rayon, terminal rendering |
 | **[Scheduling System API](https://github.com/PedroSmaxY/SchedulingSystemAPI)** | Production-oriented appointment API with authentication, role-based access, availability management, migrations, validation, and containerized infrastructure. | ASP.NET Core 9, PostgreSQL, EF Core, Docker |
 | **[FURIA CS2 FanBot](https://github.com/PedroSmaxY/furia-fanbot)** | Full-stack fan experience combining a Telegram bot, backend services, responsive landing page, social integrations, and a live deployment. | Python, TypeScript, Next.js, Docker |
 
