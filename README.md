@@ -4,7 +4,7 @@
 
 I build practical software with strong foundations in typed APIs, developer tools, automation, and performance-oriented systems.
 
-[🌐 Portfolio](https://pedro-smaxy-dev.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/pedrohenriquenv) • [✉️ Email](mailto:pedro180604@gmail.com)
+[🌐 Portfolio](https://pedro-smaxy-dev.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/pedrohenriquenv) • [✉️ Email](mailto:pedrohenrique.nv@icloud.com)
 
 ---
 
